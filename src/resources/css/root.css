@@ -1,0 +1,40 @@
+
+.root{
+    -fx-border-color: linear-gradient(#C33764, #1D2671);
+}
+.text{
+    -fx-fill: white;
+}
+.slide-menu {
+    -fx-background-color: linear-gradient(#C33764, #1D2671);
+}
+
+.btn:hover{
+    -fx-background-color: RGBA(255,255,255,0.1);
+}
+
+.btn-minimize{
+    -fx-background-color: transparent;
+    -fx-graphic: url("/resources/img/minus.png");
+}
+.btn-minimize:hover{
+    -fx-background-color: transparent;
+    -fx-graphic: url("/resources/img/minus-hover.png");
+}
+
+.btn-maximize{
+    -fx-background-color: transparent;
+    -fx-graphic: url("/resources/img/expand.png");
+}
+.btn-maximize:hover{
+    -fx-background-color: transparent;
+    -fx-graphic: url("/resources/img/expand-hover.png");
+}
+.btn-close{
+    -fx-background-color: transparent;
+    -fx-graphic: url("/resources/img/close.png");
+}
+.btn-close:hover{
+    -fx-background-color: transparent;
+    -fx-graphic: url("/resources/img/close-hover.png");
+}
