@@ -2,65 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resources/img/lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/AnimationGenerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/BounceInDownTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/BounceInLeftTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/BounceInRightTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/BounceInTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/BounceInUpTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/BounceOutDownTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/BounceOutLeftTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/BounceOutRightTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/BounceOutTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/BounceOutUpTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/BounceTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/CachedTimelineTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeInDownBigTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeInDownTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeInLeftBigTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeInLeftTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeInRightBigTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeInRightTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeInTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeInUpBigTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeInUpTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeOutDownBigTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeOutDownTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeOutLeftBigTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeOutLeftTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeOutRightBigTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeOutRightTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeOutTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeOutUpBigTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FadeOutUpTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FlashTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FlipInXTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FlipInYTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FlipOutXTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FlipOutYTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/FlipTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/HingeTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/PulseTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/RollInTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/RollOutTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/RotateInDownLeftTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/RotateInDownRightTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/RotateInTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/RotateInUpLeftTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/RotateInUpRightTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/RotateOutDownLeftTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/RotateOutDownRightTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/RotateOutTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/RotateOutUpLeftTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/RotateOutUpRightTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/ShakeTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/SwingTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/TadaTransition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/view/animations/WobbleTransition.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/controller/RootController.java" afterPath="$PROJECT_DIR$/src/br/com/dom/modernflatlayout/controller/RootController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/resources/fxml/app_root.fxml" afterPath="$PROJECT_DIR$/src/resources/fxml/app_root.fxml" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -154,8 +97,8 @@
       <file leaf-file-name="RootController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/br/com/dom/modernflatlayout/controller/RootController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="62" column="40" lean-forward="false" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+            <state relative-caret-position="311">
+              <caret line="71" column="59" lean-forward="false" selection-start-line="71" selection-start-column="59" selection-end-line="71" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -786,7 +729,7 @@
       <workItem from="1490661663295" duration="530000" />
       <workItem from="1490662328474" duration="320000" />
       <workItem from="1490662705601" duration="1190000" />
-      <workItem from="1490664016150" duration="1019000" />
+      <workItem from="1490664016150" duration="1599000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1490657987152</created>
@@ -799,7 +742,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20491000" />
+    <option name="totallyTimeSpent" value="21071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -1230,8 +1173,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/dom/modernflatlayout/controller/RootController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="62" column="40" lean-forward="false" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+        <state relative-caret-position="311">
+          <caret line="71" column="59" lean-forward="false" selection-start-line="71" selection-start-column="59" selection-end-line="71" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

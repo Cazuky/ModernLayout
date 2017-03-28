@@ -60,7 +60,8 @@ public class RootController implements Initializable {
     @FXML
     private void actionButton(Event event) {
         String id = ((HBox) event.getSource()).getId();
-        FadeInRightTransition f;        
+        FadeInRightTransition f;
+        contentPane.setCenter(null);
         switch (id) {
             case "home":
                 f = new FadeInRightTransition(contentPane);
