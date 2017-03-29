@@ -12,6 +12,7 @@ import java.util.ResourceBundle;
 
 /**
  * Created by DOM on 28/03/2017.
+ * email: douglas.janerson@gmail.com
  */
 public class LoginController implements Initializable {
 

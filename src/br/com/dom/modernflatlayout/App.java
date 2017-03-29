@@ -9,6 +9,7 @@ import javafx.stage.StageStyle;
 
 /**
  * Created by DOM on 26/03/2017.
+ * email: douglas.janerson@gmail.com
  */
 public class App extends Application {
     @Override

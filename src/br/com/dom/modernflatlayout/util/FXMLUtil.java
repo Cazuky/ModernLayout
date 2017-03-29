@@ -7,6 +7,7 @@ import java.io.IOException;
 
 /**
  * Created by DOM on 26/03/2017.
+ * email: douglas.janerson@gmail.com
  */
 public abstract class FXMLUtil {
 
