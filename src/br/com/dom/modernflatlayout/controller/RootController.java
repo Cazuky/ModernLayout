@@ -1,6 +1,7 @@
 package br.com.dom.modernflatlayout.controller;
 
 import br.com.dom.modernflatlayout.util.FXMLUtil;
+import br.com.dom.modernflatlayout.view.animations.AnimationGenerator;
 import br.com.dom.modernflatlayout.view.animations.FadeInRightTransition;
 import eu.hansolo.enzo.roundlcdclock.RoundLcdClock;
 import javafx.event.Event;
@@ -27,6 +28,8 @@ public class RootController implements Initializable {
     private AnchorPane base;
     @FXML
     private HBox topBar;
+
+    private AnimationGenerator animationGenerator = new AnimationGenerator();
 
     double positionX, positionY;
 
@@ -61,20 +64,21 @@ public class RootController implements Initializable {
     private void actionButton(Event event) {
         String id = ((HBox) event.getSource()).getId();
         FadeInRightTransition f;
-        contentPane.setCenter(null);
+        contentPane.setOpacity(0);
         switch (id) {
             case "home":
+                contentPane.setCenter(FXMLUtil.getFxml("app_login"));
                 f = new FadeInRightTransition(contentPane);
-                f.setOnFinished(a -> contentPane.setCenter(FXMLUtil.getFxml("app_login")));
                 f.play();
                 break;
             case "profile":
+                contentPane.setCenter(FXMLUtil.getFxml("app_profile"));
                 f = new FadeInRightTransition(contentPane);
-                f.setOnFinished(a -> contentPane.setCenter(FXMLUtil.getFxml("app_profile")));
                 f.play();
                 break;
         }
     }
+
 
     @FXML
     void close() {
